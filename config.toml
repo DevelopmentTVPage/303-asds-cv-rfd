@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "Damian Stage test erewr"
+baseURL = "https:\/\/asds.cv.rfd"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
